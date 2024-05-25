@@ -1,3 +1,0 @@
-repo-add ./hydra-repo.db.tar.gz --remove *.pkg.tar.zst
-repo-add ./hydra-repo.db.tar.gz *.pkg.tar.zst
-
